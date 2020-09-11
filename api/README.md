@@ -20,7 +20,8 @@ php artisan db:seed
 php artisan serve
 ```
 ## Testing
-Feature tests and located in /tests/Feature and Unit tests are located in /tests/Unit. Enter the following command to run PHPUnit tests.
+Feature tests and located in the "/tests/Feature" directory and Unit tests are located in the "/tests/Unit" directory. 
+Enter the following command to run PHPUnit tests.
 ```bash
 vendor/bin/phpnunit
 ```

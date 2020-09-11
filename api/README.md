@@ -1,4 +1,4 @@
-> Laravel Backend API for our yBank
+> Laravel Backend API for yBank
 
 ## Installation
 1.) Install all composer dependencies

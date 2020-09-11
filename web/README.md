@@ -1,4 +1,4 @@
-# yBank
+# yBank SSR App
 
 > yBank - Vue(Nuxt) SSR Frontend for Test Assignment
 

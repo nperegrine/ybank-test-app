@@ -20,4 +20,4 @@ php artisan db:seed
 php artisan serve
 ```
 ## Remarks
-The API works, I did my best within the given period of time and within the context of the test assignment to fix and finish the most common edge cases, I'm aware of more UX issues but lets put 'em in the backlog for now, lets ship—i know there's more work than can be done to make this great.
+The API works, I did my best within the given period of time and within the context of the test assignment to fix and finish the most common edge cases. I know there's more work than can be done to make this even better and I'm open to learning and doing more.

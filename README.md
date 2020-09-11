@@ -11,9 +11,9 @@ The following key considerations where taken into account when working on this T
 * **Logic** - Forbit overspending of account balance
 
 ## Remarks
-I have tried to do my best within the context of the Test Assignment. As with any major project, I'm aware there may be more issues that could be improved but lets put 'em in the backlog for now, lets ship. I know there's more work that can be done to make this great. Kindly looking forward to your feedback. Thank you so much!
+I have tried to do my best within the context of the Test Assignment. As with any major project, I'm aware there may be more issues that could be improved but lets put 'em in the backlog for now, lets ship. I know there's more work that can be done to make this great. Kindly looking forward to your feedback.
 
-We learn more everyday and we improve everyday. I really hope this humble work I've done can help prove/support that I am very competent for this role.
+We learn more everyday and we improve everyday. I really hope this humble work I've done can help prove/support that I am very competent for this role.  Thank you so much!
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)

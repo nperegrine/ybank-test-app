@@ -1,4 +1,4 @@
-# API
+# yBank API
 > Laravel Backend API for yBank
 
 ## Installation

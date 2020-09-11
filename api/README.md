@@ -19,5 +19,11 @@ php artisan db:seed
 ```bash
 php artisan serve
 ```
+## Testing
+Feature tests and located in /tests/Feature and Unit tests are located in /tests/Unit. Enter the following command to run PHPUnit tests.
+```bash
+vendor/bin/phpnunit
+```
+
 ## Remarks
 The API works, I did my best within the given period of time and within the context of the test assignment to fix and finish the most common edge cases. I know there's more work than can be done to make this even better and I'm open to learning and doing more.

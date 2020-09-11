@@ -19,4 +19,8 @@ $ yarn start / npm run start
 $ yarn generate / npm run generate
 ```
 
+## Remarks
+The frontend works, I did my best to fix the most common edge cases, I'm aware of more UX issues but lets put 'em in the backlog for now, lets ship—i know there's more work to make this great.
+
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+

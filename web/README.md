@@ -20,7 +20,7 @@ $ yarn generate / npm run generate
 ```
 
 ## Remarks
-The frontend works, I did my best with the knowledge I have to fix the most common edge cases (refactor, SoC, etc..), I'm aware of more UX issues and possible improvments, but we can put 'em in the backlog. I know there's more work that can be done to make this even better as the app grows (scales) and I'm open to learning and doing so much more to the best of my abilities.
+I did my best within the given period of time and within the context of the test assignment to fix and finish the most common edge cases. I know there's more work than can be done to make this even better and I'm open to learning and doing more.
 
 ## Nuxt.js Documentation
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org) and [Nuxt.js Typescript docs](https://typescript.nuxtjs.org)

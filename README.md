@@ -11,7 +11,7 @@ The following key considerations where taken into account when working on this T
 * **Logic** - Forbid overspending of account balance
 
 ## Remarks (Important)
-I have tried to do my best within the context of the Test Assignment. As with any major project, I'm aware there may be more issues that could be improved. I know there's more work that can be done to make this great and I am open to improving, learning and doing more and giving my absolute best to guarentee the success of all projects I may work on. Kindly looking forward to your feedback.
+he API works, I did my best within the given period of time and within the context of the test assignment to fix and finish the most common edge cases. I know there's more work than can be done to make this even better and I'm open to improving, learning and doing more and giving my absolute best to guarentee the success of all projects I may work on. Kindly looking forward to your feedback.
 
 We learn more everyday and we improve everyday. I really hope this humble work I've done can help prove/support that I am very competent for this role.  Thank you so much!
 
